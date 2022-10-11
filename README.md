@@ -1,3 +1,6 @@
+#This is for practice that I got from online and kodekloud materials.
+#I do not take ownership as the one creating it. I only have for my personal use.
+#Current set up is 1 master and 2nodes for rhel.
 
 # Vagrantfile and Scripts to Automate Kubernetes Setup using Kubeadm [Practice Environment for CKA/CKAD and CKS Exams]
 
